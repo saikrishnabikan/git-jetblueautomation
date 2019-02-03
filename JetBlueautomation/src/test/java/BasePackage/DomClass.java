@@ -20,6 +20,7 @@ public class DomClass {
 			System.setProperty("webdriver.ie.driver", ".//sr//test//resources//iedriver.exe");
 			driver=new InternetExplorerDriver();
 			//ffgf
+//tgfbftg
 			
 		case "ff":
 			driver=new FirefoxDriver();	
